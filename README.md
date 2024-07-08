@@ -1,3 +1,13 @@
+## Datos de ejemplo
+
+Los datos de ejemplo son del cuarto lanzamiento del cohete starship de spaceX
+
+Los datos obtenidos no son perfectos ya que se utiliza un algoritmo de reconocimiento de imagenes el cual puede fallar
+
+Tambien he de decir que los datos han sido obtenidos mientras veia el directo del canal "Control de mision" a velocidad normal en youtube.
+
+Esto ha podido aumentar la tasa de fallo ya que la calidad de youtube no es perfecta, ademas los numeros cambian constantemente por lo que si la caputura del dato en pantalla se produce mientras cambiaba el numero cambia, la captura sale borrosa y no se puede reconocer ningun dato.
+
 ## Como funciona
 
 Este programa hace capturas de pantalla de areas definidas, las procesa y obtiene la telemetria mediante el reconocimiento de imagenes.
